@@ -1,24 +1,24 @@
-# README
+# Joke Master
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Alexa app that queries reddit for top posts.  Originally made for jokes but expanding to other subjects slowly
 
-Things you may want to cover:
+### Current Functionality
 
-* Ruby version
+#### Joke
 
-* System dependencies
+```
+Alexa ask joke master to humour me
+Alexa ask joke master to tell me a joke
+```
 
-* Configuration
+#### Dad Joke
 
-* Database creation
+```
+Alexa ask joke master to tell me a dad joke
+```
 
-* Database initialization
+#### Creepy Story
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+Alexa ask joke master to tell me a creepy story
+```
